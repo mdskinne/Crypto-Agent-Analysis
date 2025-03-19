@@ -1,4 +1,4 @@
-# Crypto-Data-Analysis
+# Crypto-Agent-Analysis
 This is a **Flask-based web application** that allows users to **fetch historical cryptocurrency data and generate an analysis report** using AI-driven research and reporting agents. Research agent and reporting agent work together in a simple crypto analysis based on and using Open AI Agents SDK.
 
 ---
@@ -17,8 +17,8 @@ This is a **Flask-based web application** that allows users to **fetch historica
 
 
 ```bash
-git clone https://github.com/mdskinne/crypto-data-analysis.git
-cd crypto-data-analysis
+git clone https://github.com/mdskinne/crypto-agent-analysis.git
+cd crypto-agent-analysis
 ```
 
 ### **2️ Set Up a Virtual Environment (Optional, Recommended)**
